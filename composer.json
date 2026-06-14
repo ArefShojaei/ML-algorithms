@@ -1,0 +1,29 @@
+{
+    "name": "arefshojaei/ml-algo",
+    "description": "PHP Machine Learning Algorithms",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "machine-learning",
+        "prediction",
+        "algorithm",
+        "model",
+        "data",
+        "ml",
+        "ai"
+    ],
+    "autoload": {
+        "psr-4": {
+            "ML\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArefShojaei",
+            "email": "arefshojaei82@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
